@@ -1,2 +1,4 @@
 # template-node
-Node.JS Template Repository
+Node.JS Template Repository \
+
+To run a test case, use ```npm run test```
